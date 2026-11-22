@@ -1,0 +1,29 @@
+## Interface: 16001
+## Title: HoheUI
+## Notes: A minimal, controller-first HUD for WoW Forever.
+## Author: Hohe
+## Version: 0.7.0
+## OptionalDeps: ControllerForever
+## SavedVariables: HoheUIDB
+
+Config.lua
+Core.lua
+Binds.lua
+Player.lua
+Target.lua
+Heal.lua
+Pet.lua
+Tiles.lua
+Party.lua
+Raid.lua
+Cooldowns.lua
+ExtraKeys.lua
+Chat.lua
+DictApp.lua
+Dictation.lua
+Arch.lua
+Notch.lua
+Minimap.lua
+Loot.lua
+Delete.lua
+Options.lua
